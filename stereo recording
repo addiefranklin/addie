@@ -1,1 +1,10 @@
-file:///Users/addief/Downloads/xy.jpg
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>XY vs ORTF set up</h1>
+
+<img src="xy.jpg" alt="XY" width="500" height="500">
+
+</body>
+</html>
